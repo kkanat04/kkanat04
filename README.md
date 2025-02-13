@@ -26,10 +26,6 @@
 ---
 
 ### 📫 Связаться со мной  
-- 💼 [LinkedIn](https://linkedin.com/in/твой_профиль)  
-- 🐦 [Twitter](https://twitter.com/твой_профиль)  
-- 💌 [Email](mailto:твой@email.com)  
-
----
-
-⭐️ _Спасибо, что заглянул(а)! Оставь звездочку на моих проектах 🚀_
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanat-kylychbekov-244b74340/)  
+- 🐦 [Telegram](https://t.me/kkanat07)  
+- 💌 [Email](mailto:kanatkylychbekovjob@gmail.com)  
