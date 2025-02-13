@@ -1,31 +1,31 @@
-<h1 align="center">Привет! 👋</h1>
-<h3 align="center">Frontend-разработчик | React-Native | React | Web3 | Telegram WebApps</h3>
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">Frontend Developer | React-Native | React | Web3 | Telegram WebApps</h3>
 
 ---
 
-### 🚀 Обо мне  
-- 🖥️ Опыт в **React, React-Native, TypeScript, Web3**  
-- 💡 Интересуюсь **перформанс-оптимизацией и UI/UX**  
-- 🎯 Всегда изучаю **новые технологии и тренды**  
+### 🚀 About Me  
+- 🖥️ Experienced in **React, React-Native, TypeScript, Web3**  
+- 💡 Passionate about **performance optimization and UI/UX**  
+- 🎯 Always learning **new technologies and trends**  
 
 ---
 
-### 🛠️ Технологии и инструменты  
+### 🛠️ Technologies & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,graphql,tailwind,html,css,git" />
 </p>
 
 ---
 
-### 📈 GitHub статистика  
+### 📈 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твое_имя&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 📫 Связаться со мной  
+### 📫 Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kanat-kylychbekov-244b74340/)  
 - 🐦 [Telegram](https://t.me/kkanat07)  
-- 💌 [Email](mailto:kanatkylychbekovjob@gmail.com)  
+- 💌 [Email](mailto:kanatkylychbekovjob@gmail.com)
