@@ -12,7 +12,7 @@
 
 ### 🛠️ Технологии и инструменты  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,tailwind,html,css,web3,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,tailwind,html,css,git" />
 </p>
 
 ---
