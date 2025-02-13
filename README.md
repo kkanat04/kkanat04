@@ -17,14 +17,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### 📫 Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kanat-kylychbekov-244b74340/)  
 - 🐦 [Telegram](https://t.me/kkanat07)  
