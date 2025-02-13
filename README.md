@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Я Канат</h1>
+<h1 align="center">Привет! 👋</h1>
 <h3 align="center">Frontend-разработчик | React-Native | React | Web3 | Telegram WebApps</h3>
 
 ---
